@@ -1,8 +1,8 @@
 # Recommendation-Systems
 
 
-# tools used 
+# tools used: 
 Pandas,NumPy,MovieLens Dataset
 
-# libs used
-Scikit-learn,TensorFlow 
+# libs used:
+Scikit-learn, TensorFlow 
